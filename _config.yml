@@ -16,7 +16,7 @@ timezone:
 
 title: Huzaifa # the main title
 
-tagline: Hello, I'm Huzaifa & I write silly things about computers. # it will display as the sub-title
+tagline: Hello, I'm Huzaifa & here I write silly things about computers. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   God Stack Developer
@@ -42,7 +42,7 @@ social:
     - https://github.com/HN026 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/huzaifanaseer
 
 google_site_verification: # fill in to your verification string
 
