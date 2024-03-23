@@ -14,4 +14,13 @@ I'm a Computer Science undergrad at **NIT Srinagar**. I'm all about the intricat
 
 ## My Tech Stack
 
-Generally, I like to call myself a **God Stack Developer** because I mostly use *C, C++, Rust, Typescript* in my projects and if you can read in between the lines, yes, I'm obsessed with type-based languages. Moreover, you can say I prefer to be humble and low level when it comes to speaking to computers. You can go through my deeds and what I've done in recent years [here](/projects).
+Generally, I like to call myself a **God Stack Developer** because I mostly use *C, C++, Rust, Typescript* in my projects and if you can read in between the lines, yes, I'm obsessed with type-based languages. Moreover, you can say I prefer to be humble and low level when it comes to speaking to computers. You can go through my work in recent years [here](/projects).
+
+```
+For the sake of it, Here is the stuff I've worked with
+Languages: C, C++, Typescript, Rust, Python
+Backend: Express, FastAPI
+Databases: MongoDB, Postgresql, Supabase, Firebase
+Frontend: Vanila JS, React, Tailwind.css
+Frameworks: Nextjs, Nuxt
+```
