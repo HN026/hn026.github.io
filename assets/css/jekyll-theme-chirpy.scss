@@ -4,11 +4,9 @@
 @import 'main';
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
-$new-color: #FFBF00;
-$newfont-color: #F6AE2D;
 
 #sidebar {
-  border-right: 2px solid $new-color;
+  border-right: 2px solid #FFBF00;
 }
 
 #sidebar #avatar {
@@ -23,20 +21,20 @@ $newfont-color: #F6AE2D;
 }
 
 #sidebar .site-title a {
-  color: $new-color;
+  color: #FFBF00;
   margin-top: 3rem !important;
   font-family: "Abril Fatface", serif;
   text-decoration: underline;
 }
 
 #post-list .card .card-body .card-title {
-  color: $new-color !important;
+  color: #FFBF00 !important;
   font-family: "Abril Fatface", serif;
   text-decoration: underline;
 }
 
 main h1 {
-  color: $new-color;
+  color: #FFBF00;
   font-size: larger;
   font-weight: bold;
   font-size: 2.5rem;
@@ -52,23 +50,23 @@ main h1 {
 .post-meta a:not([class]):hover,
 #access-lastmod a:hover,
 footer a:hover {
-  color: $new-color !important;
-  border-bottom: $new-color 1px solid;
+  color: #FFBF00 !important;
+  border-bottom: #FFBF00 1px solid;
 }
 
 #topbar #breadcrumb {
-  color: $new-color;
+  color: #FFBF00;
 }
 
 main h2 {
-  color: $newfont-color;
+  color: #F6AE2D;
   font-size: larger;
   font-weight: bold;
   font-size: 1.5rem;
 }
 
 #topbar button i {
-  color: $new-color;
+  color:#FFBF00;
 }
 
 #search-results a,
@@ -78,16 +76,16 @@ a {
 }
 
 #toc-wrapper ul .is-active-link {
-  color: $new-color !important;
+  color:#FFBF00 !important;
   font-weight: 600;
 }
 
 #toc-wrapper ul .is-active-link::before {
-  background-color: $new-color !important;
+  background-color:#FFBF00!important;
 }
 
 #toc-wrapper ul .toc-link:hover {
-  color: $newfont-color !important;
+  color: #F6AE2D !important;
   text-decoration: none;
 }
 
@@ -96,7 +94,7 @@ a {
   #topbar-title,
   #sidebar-trigger,
   #search-trigger {
-    color: $new-color;
+    color: #FFBF00;
     font-family: "Abril Fatface", serif;
     letter-spacing: 2.5px;
     text-decoration: underline;
@@ -104,7 +102,7 @@ a {
 }
 
 #panel-wrapper .panel-heading {
-  color: $new-color;
+  color: #FFBF00;
 }
 
 #search-results a,
@@ -113,6 +111,5 @@ h4,
 h3,
 h2,
 h1 {
-  color: $new-color;
-
+  color:#FFBF00;
 }
