@@ -1,10 +1,11 @@
----
----
-
+--- --- @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 @import 'main';
 
+$new-color: #FFBF00;
+$newfont-color: #F6AE2D;
+
 #sidebar {
-  border-right: 2px solid #FF5F15;
+  border-right: 2px solid $new-color;
 }
 
 #sidebar #avatar {
@@ -18,18 +19,97 @@
   object-fit: cover;
 }
 
-#sidebar .site-title a{
-  color: #FF5F15;
-  margin-top: 3rem;
+#sidebar .site-title a {
+  color: $new-color;
+  margin-top: 3rem !important;
+  font-family: "Abril Fatface", serif;
+  text-decoration: underline;
 }
 
 #post-list .card .card-body .card-title {
-  color: #FF5F15 !important;
+  color: $new-color !important;
+  font-family: "Abril Fatface", serif;
+  text-decoration: underline;
 }
 
 main h1 {
-  color: #FF5F15;
+  color: $new-color;
   font-size: larger;
   font-weight: bold;
   font-size: 2.5rem;
+}
+
+#page-category a:hover,
+#page-tag a:hover,
+.post-tags .post-tag:hover,
+.post-tail-wrapper .license-wrapper>a:hover,
+#search-results a:hover,
+#topbar #breadcrumb a:hover,
+.content a:not(.img-link):hover,
+.post-meta a:not([class]):hover,
+#access-lastmod a:hover,
+footer a:hover {
+  color: $new-color !important;
+  border-bottom: $new-color 1px solid;
+}
+
+#topbar #breadcrumb {
+  color: $new-color;
+}
+
+main h2 {
+  color: $newfont-color;
+  font-size: larger;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+#topbar button i {
+  color: $new-color;
+}
+
+#search-results a,
+#search-hints .post-tag,
+a {
+  color: #ffffff;
+}
+
+#toc-wrapper ul .is-active-link {
+  color: $new-color !important;
+  font-weight: 600;
+}
+
+#toc-wrapper ul .is-active-link::before {
+  background-color: $new-color !important;
+}
+
+#toc-wrapper ul .toc-link:hover {
+  color: $newfont-color !important;
+  text-decoration: none;
+}
+
+@media (max-width: 849px) {
+
+  #topbar-title,
+  #sidebar-trigger,
+  #search-trigger {
+    color: $new-color;
+    font-family: "Abril Fatface", serif;
+    letter-spacing: 2.5px;
+    text-decoration: underline;
+  }
+}
+
+#panel-wrapper .panel-heading {
+  color: $new-color;
+}
+
+#search-results a,
+h5,
+h4,
+h3,
+h2,
+h1 {
+  color: $new-color;
+
 }
