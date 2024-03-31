@@ -21,6 +21,6 @@ For the sake of it, Here is the stuff I've worked with
 Languages: C, C++, Typescript, Rust, Python
 Backend: Express, FastAPI
 Databases: MongoDB, Postgresql, Supabase, Firebase
-Frontend: Vanila JS, React, Tailwind.css
+Frontend: Vanilla JS, React, Tailwind.css
 Frameworks: Nextjs, Nuxt
 ```
