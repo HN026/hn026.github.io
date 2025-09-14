@@ -8,6 +8,11 @@ RUSQL is a SQLite-like database implemented in the Rust programming language. It
 Check out the [RUSQL GitHub Repository](https://github.com/HN026/Rusql)
 <img src="../assets/img/rusql.png" alt="Rusql CLI">
 
+## LocalLru
+A high-performance, thread-safe LRU (Least Recently Used) cache implementation in C++ using thread-local storage for lock-free operations.
+Check out the [LocalLru GitHub Repository](https://github.com/HN026/LocalLru)
+
+
 ## UNIX Shell
 Developed a custom Unix shell crafted in C, offering advanced features such as command execution, job control, and built-in commands for seamless navigation. With robust signal handling and a customizable prompt, users experience enhanced control and efficiency. Leveraging symbol tables, word expansion, and tilde expansion, this shell optimizes command parsing and offers dynamic input capabilities.
 Check out it's Github Repository [here](https://github.com/HN026/Unix-Shell)
@@ -30,8 +35,3 @@ Check out it's Github Repository [here](https://github.com/HN026/Transformer)
 My project investigates the generation of Mandelbrot fractals through a neural network approach. This approach incorporates the mathematical foundations of Taylor and Fourier series. By leveraging these techniques, I aim to achieve a novel and potentially more efficient method for producing these intricate fractal structures. The project explores the synergy between neural network capabilities and classical mathematical tools in the fascinating domain of fractal generation.
 Check out it's Github Repository [here](https://github.com/HN026/Mandelbrot)
 ![Mandelbrot](../assets/img/mandlebrot.png)
-
-
-## To be continued...
-
-
