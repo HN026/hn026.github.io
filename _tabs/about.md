@@ -10,19 +10,11 @@ toc: false
 
 ## Hello, I'm Huzaifa Naseer
 
-I’m a **Software Engineer at Oracle**, where I work on building high-performance and reliable distributed systems. I graduated with a **B.Tech in Computer Science from NIT Srinagar**, and since then I’ve been focused on solving complex problems in systems engineering, optimization, and large-scale infrastructure.  
+I’m a **Software Engineer at Oracle**, where I work on building high-performance and reliable distributed systems. I graduated with a **B.Tech in Computer Science from NIT Srinagar**, and since then I’ve been focused on solving complex problems in systems engineering, optimization, and large-scale infrastructure.
 
-Beyond my work in computer science, I’m deeply passionate about **quantitative finance, financial markets, and trading systems**. My current journey is to bridge my expertise in **C++/Rust performance engineering, distributed systems, and AI/ML** with advanced knowledge in **quantitative research and algorithmic trading**.  
+Beyond my work in computer science, I’m deeply passionate about **quantitative finance, financial markets, and trading systems**. My current journey is to bridge my expertise in **C++/Rust performance engineering, distributed systems, and AI/ML** with advanced knowledge in **quantitative research and algorithmic trading**.
 
 I aim to position myself at the intersection of **finance and technology**, developing the skills to design scalable, low-latency systems for trading and risk management.
-
-## Education
-
-- **National Institute of Technology, Srinagar**  
-  *Bachelor of Technology in Computer Science*  
-  8th Semester, CGPA: **8.12**
-
----
 
 ## Professional Experience
 
@@ -52,6 +44,14 @@ I aim to position myself at the intersection of **finance and technology**, deve
 - Developed & enhanced Wise App’s UI for user engagement.  
 - Built key pages for user registration & product search.  
 - Optimized backend queries for performance.
+
+## Education
+
+- **National Institute of Technology, Srinagar**  
+  *Bachelor of Technology in Computer Science*  
+  8th Semester, CGPA: **8.12**
+
+---
 
 ## My Tech Stack
 
